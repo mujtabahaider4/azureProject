@@ -25,5 +25,11 @@
     "table" : "DimArtist",
     "cdc_col" : "updated_at",
     "from_date: : ""
+   },
+{
+    "schema" : "dbo",
+    "table" : "FastStream",
+    "cdc_col" : "updated_at",
+    "from_date: : ""
    }
 ]
